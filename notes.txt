@@ -21,4 +21,6 @@ def update_surplus_worksheet(data):
 
 
     python3 run.py
+
+    /workspace/sandwich/requirements.txt
 """
